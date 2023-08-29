@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Uzair Sohail</h1>
 <h3 align="center">A dedicated Computer Scientist from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n6bn7qatf8moeji7dpuzvqcmim5456w4qoayfds2&ep=v1_gifs_search&rid=giphy.gif&ct=g")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairsohail-cs&label=Profile%20views&color=0e75b6&style=flat" alt="uzairsohail-cs" /> </p>
 
