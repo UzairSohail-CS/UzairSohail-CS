@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Employee Attendence using QR Code**
 
-- 🌱 I’m currently learning **ASP.NET, Cyber Attacks**
+- 🌱 I’m currently learning **SQL, T-SQL, PowerBI**
 
 - 👨‍💻 All of my projects are available at [uzair-sohail-portfolio.netlify.app/](https://uzair-sohail-portfolio.netlify.app/)
 
