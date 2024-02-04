@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Employee Attendence using QR Code**
+- 🔭 I’m currently working on **Business Intelligence Reports**
 
-- 🌱 I’m currently learning **SQL, T-SQL, PowerBI**
+- 🌱 I’m currently learning **Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [uzair-sohail-portfolio.netlify.app/](https://uzair-sohail-portfolio.netlify.app/)
 
