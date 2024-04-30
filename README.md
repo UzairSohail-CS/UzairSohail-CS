@@ -2,6 +2,7 @@
 
 
 
+
 <h1 align="center">Hi 👋, I'm Uzair Sohail</h1>
 <h3 align="center">A dedicated Computer Scientist from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471t5h90d8df3m73ruxdztymnocoitvdfdt993p3s0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
