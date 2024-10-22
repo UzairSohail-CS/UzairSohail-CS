@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [uzair-sohail-portfolio.netlify.app/](https://uzair-sohail-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [uzair-sohail-portfolio.netlify.app/](https://uzairsohail-portfolio.netlify.app/)
 
 - 💬 Ask me about **I possess a deep understanding of various programming aspects, from languages and algorithms to debugging and software design.**
 
